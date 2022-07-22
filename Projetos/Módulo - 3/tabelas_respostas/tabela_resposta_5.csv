@@ -1,0 +1,21 @@
+Country,2015,2016,2017,2018,2019
+Angola,True,True,True,True,False
+Belize,False,True,True,True,False
+Central African Republic,True,False,True,True,True
+Comoros,True,True,False,False,True
+Djibouti,True,False,False,False,False
+Gambia,False,False,False,False,True
+Laos,True,True,False,True,True
+Lesotho,True,False,True,True,True
+Macedonia,True,True,True,True,False
+Mozambique,True,False,True,True,True
+Namibia,False,True,True,True,True
+North Macedonia,False,False,False,False,True
+Oman,True,False,False,False,False
+Puerto Rico,False,True,False,False,False
+Somalia,False,True,True,True,True
+Somaliland Region,True,True,False,False,False
+South Sudan,False,True,True,True,True
+Sudan,True,True,True,True,False
+Suriname,True,True,False,False,False
+Swaziland,True,False,False,False,True
